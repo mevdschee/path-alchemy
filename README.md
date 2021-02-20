@@ -1,6 +1,6 @@
-# pathql-alchemy
+# pathalchemy 
 
-A Python 3 (and 2) path engine library for SqlAlchemy. Allows to query the database using PathQL (see: [PathQL.org](https://pathql.org/)).
+A Python 3 (and 2) PathQL engine library for SqlAlchemy. Allows to query the database using PathQL (see: [PathQL.org](https://pathql.org/)).
 
 ### Requirements
 
